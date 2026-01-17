@@ -49,3 +49,15 @@ This project was created for educational purposes and is not intended for produc
 ## Installation & Running
 1. Clone the repository
 2. Install dependencies:
+3. Run the server:
+4. Open in browswer:
+
+---
+
+## Academic Disclaimer
+This repository represents a learning-focused development process. The incomplete state of the application reflects real-world development constraints, including time limitations and unexpected technical issues.
+
+---
+
+## Author
+Lauren Justin Cua
